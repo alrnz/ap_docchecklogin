@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2022-06-01T18:25:38Z" product-name="ap_docchecklogin">
+        <header />
+        <body>
+            <trans-unit id="pluginName">
+                <target>DocCheck Login</target>
+            </trans-unit>
+
+            <trans-unit id="flexform.generaltab">
+                <target>Allgemein</target>
+            </trans-unit>
+            <trans-unit id="flexform.dummyUser">
+                <target>Dummy User</target>
+            </trans-unit>
+            <trans-unit id="flexform.loginId">
+                <target>Login ID</target>
+            </trans-unit>
+
+            <trans-unit id="flexform.advancedtab">
+                <target>Erweitert</target>
+            </trans-unit>
+
+            <trans-unit id="flexform.loginLayout">
+                <target>Loginform Layout</target>
+            </trans-unit>
+            <trans-unit id="flexform.loginLayout.custom">
+                <target>Custom-Layout (bitte angeben)</target>
+            </trans-unit>
+            <trans-unit id="flexform.customLayout">
+                <target>Custom-Layout-Bezeichnung (opt.)</target>
+            </trans-unit>
+
+            <trans-unit id="flexform.language">
+                <target>Sprache</target>
+            </trans-unit>
+
+            <trans-unit id="flexform.language.de">
+                <target>Deutsch (Deuschland)</target>
+            </trans-unit>
+            <trans-unit id="flexform.language.chde">
+                <target>Deutsch (Schweiz)</target>
+            </trans-unit>
+            <trans-unit id="flexform.language.at">
+                <target>Deutsch (Österreich)</target>
+            </trans-unit>
+            <trans-unit id="flexform.language.com">
+                <target>Englisch</target>
+            </trans-unit>
+            <trans-unit id="flexform.language.befr">
+                <target>Französisch (Belgien)</target>
+            </trans-unit>
+            <trans-unit id="flexform.language.fr">
+                <target>Französisch (Frankreich)</target>
+            </trans-unit>
+            <trans-unit id="flexform.language.chfr">
+                <target>Französisch (Schweiz)</target>
+            </trans-unit>
+            <trans-unit id="flexform.language.it">
+                <target>Italienisch (Italien)</target>
+            </trans-unit>
+            <trans-unit id="flexform.language.benl">
+                <target>Niederländisch (Belgien)</target>
+            </trans-unit>
+            <trans-unit id="flexform.language.nl">
+                <target>Niederländisch (Niederlande)</target>
+            </trans-unit>
+            <trans-unit id="flexform.language.es">
+                <target>Spanisch (Spanien)</target>
+            </trans-unit>
+
+            <trans-unit id="flexform.redirect">
+                <target>Weiterleitung nach Login (wird von ?redirect_url überschrieben)</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
