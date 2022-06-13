@@ -1,0 +1,44 @@
+2.2.5
+Added paremeter return_url
+===
+1.2.0
+Added TYPO3 8 compatibility
+===
+1.1.0
+Added Typo3 7.6 compatibility (https://github.com/antwerpes/ap_docchecklogin/pull/6)
+Added optional loginId override via TypoScript
+===
+1.0.10
+Added the option to set redirect-after-login from the frontend.
+===
+1.0.9
+Enabled "clearcacheonload" to fix cache issues.
+===
+1.0.8
+Implemented a beforeRedirect Hook and SignalSlot
+Fixed a bug determining whether a FE User is available
+===
+1.0.7
+Typo3 6.2 compatibility
+and learn to respect the ?redirect_url - Parameter just as fe_login would
+===
+1.0.6
+Documentation Fixes
+===
+1.0.5
+Migrated Documentation to ReST Format, hoping to make it available again.
+===
+1.0.4
+Support DocCheck Personal, DocCheck Routing Feature, and DocCheck UniqueKey Feature
+===
+1.0.3
+Documentation Fixes
+===
+1.0.2
+Description and some metadata fixed
+===
+1.0.1 
+Initial release
+===
+0.9.4
+Compatible 1.0.4 for Typo3 4.5
