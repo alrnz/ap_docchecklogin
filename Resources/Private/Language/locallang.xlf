@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-10-01T18:25:38Z" product-name="ap_docchecklogin">
+		<header/>
+		<body>
+			<trans-unit id="loggedInText">
+				<source>You are logged in as DocCheck User.</source>
+			</trans-unit>
+			<trans-unit id="logout">
+				<source>Logout</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

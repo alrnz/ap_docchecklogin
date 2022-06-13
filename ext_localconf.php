@@ -5,14 +5,14 @@ if (!defined('TYPO3_MODE')) {
 }
 
 \TYPO3\CMS\Extbase\Utility\ExtensionUtility::configurePlugin(
-    'Antwerpes.ApDocchecklogin',
+    'ap_docchecklogin',
     'DocCheckAuthentication',
     [
-        'DocCheckAuthentication' => 'main, loggedIn, loginForm',
+        \Antwerpes\ApDocchecklogin\Controller\DocCheckAuthenticationController::class => 'main, loggedIn, loginForm',
     ],
     // non-cacheable actions
     [
-        'DocCheckAuthentication' => 'main, loggedIn',
+        \Antwerpes\ApDocchecklogin\Controller\DocCheckAuthenticationController::class => 'main, loggedIn',
     ]
 );
 
