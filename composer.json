@@ -9,5 +9,11 @@
         }
     },
     "require": {
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "ap_docchecklogin"
+        }
     }
+  
 }
